@@ -1,0 +1,22 @@
+body {
+    margin-left:0px;
+    margin-top:0px;
+    text-align:center;
+    font-family: verdana, sans-serif;
+    
+} 
+
+
+
+.top-container{
+    padding:20px;
+}
+
+.top-cloud {
+    position:relative;
+    left:200px;
+}
+
+.bottom-cloud {
+    position:absolute;
+}
